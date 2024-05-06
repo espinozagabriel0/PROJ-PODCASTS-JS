@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Podcast Nomada en el camino RSS</title>
+        <link>https://espinozagabriel0.github.io/PROJ2-Sprint1-Historia1/podcast.rss</link>
+        <description>Podcasts sobre temas varios</description>
+
+        <item>
+        <title>Cocinando al aire libre</title>
+        <link>https://espinozagabriel0.github.io/PROJ2-Sprint1-Historia1/</link> 
+        <description>Cocinar al aire libre puede ser una experiencia emocionante y gratificante, especialmente rodeado de la belleza natural. Si buscas disfrutar de una comida única, considera cocinar al aire libre con diversas técnicas y recetas.</description>
+        <enclosure url="https://samplelib.com/lib/preview/mp3/sample-3s.mp3" length="52079" type="audio/mp3/"/>
+        </item>
+
+        <item>
+        <title>Los destinos mas requeridos del año</title>
+        <link>https://espinozagabriel0.github.io/PROJ2-Sprint1-Historia1/</link> 
+        <description>Explora los destinos turísticos más populares y solicitados del año. Descubre las tendencias en viajes y los lugares que no te puedes perder en tu próxima aventura. Desde playas exóticas hasta ciudades históricas, hay algo para todos los gustos. </description>
+        <enclosure url="https://samplelib.com/lib/preview/mp3/sample-3s.mp3" length="52079" type="audio/mp3/"/>
+        </item>
+
+        <item>
+        <title>Consejos para planear un viaje de ruta</title>
+        <link>https://espinozagabriel0.github.io/PROJ2-Sprint1-Historia1/</link> 
+        <description>Planificar un viaje de ruta puede ser emocionante pero también desafiante. Aprende a hacerlo exitosamente con nuestros consejos prácticos. Desde elegir las rutas más adecuadas hasta preparar tu coche para el viaje, te brindamos todo lo que necesitas saber.</description>
+        <enclosure url="https://samplelib.com/lib/preview/mp3/sample-3s.mp3" length="52079" type="audio/mp3/"/>
+        </item>
+
+        <item>
+        <title>Los mejores festivales del año</title>
+        <link>https://espinozagabriel0.github.io/PROJ2-Sprint1-Historia1/</link> 
+        <description>Los festivales son una oportunidad única para sumergirse en la cultura y la diversión. Descubre los mejores festivales del mundo y disfruta de una experiencia inolvidable. Desde la música, cine, gastronomía hasta moda. Hay un festival para cada uno!</description>
+        <enclosure url="https://samplelib.com/lib/preview/mp3/sample-3s.mp3" length="52079" type="audio/mp3/"/>
+        </item>
+
+        <item>
+        <title>Mejores vehiculos si eres joven</title>
+        <link>https://espinozagabriel0.github.io/PROJ2-Sprint1-Historia1/</link> 
+        <description>Los mejores vehículos para jóvenes ofrecen una combinación de estilo, rendimiento, tecnología y seguridad a un precio asequible. Los jóvenes buscan vehículos que se adapten a su estilo de vida activo y a sus necesidades de movilidad.</description>
+        <enclosure url="https://samplelib.com/lib/preview/mp3/sample-3s.mp3" length="52079" type="audio/mp3/"/>
+        </item>
+    </channel>
+</rss>

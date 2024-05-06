@@ -1,0 +1,203 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #C5DFC5;
+    font-family: "Comic Neue", cursive;
+    font-weight: 400;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+ul > li:hover{
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    max-width: 55rem;
+    margin: 0 auto;
+    padding: 0 .5rem;
+    height: 100vh;
+}
+
+/* Header */
+#header{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 1rem 0;
+}
+#header nav ul{
+    padding: .75rem 2.5rem;
+    gap: 4rem;
+}
+#header nav ul li a:current{
+    color: green;
+}
+#header nav ul li a{
+    color: black;
+}
+
+
+#header nav ul{
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+}
+#header nav img{
+    width: 2rem;
+}
+#header nav{
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
+
+/* Main */
+main ul.buscar{
+    justify-content: space-between;
+    padding: 1.75rem 0;
+}
+/* Articles */
+article{
+    display: flex;
+    flex-direction: column;
+    gap: 1.75rem;
+    padding: 2rem 0;
+}
+.article{
+    display: flex;
+    height: 15rem;
+}
+.article img{
+    max-width: 50%;
+}
+.article  > *{
+    flex: 1;
+}
+.article_content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: #fff;
+    padding: .5rem 1rem;
+}
+.article_user{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.article_user .user_profile{
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+}
+.user_profile div{
+    display: flex;
+    flex-direction: column;
+}
+.article_interactions div{
+    display: flex;
+    gap: 1rem;
+}
+
+.article_interactions{
+    display: flex;
+    justify-content: space-between;
+}
+
+i.fa-crown{
+    font-size: .75rem;
+}
+
+i.fa-heart{
+    color: red;
+}
+/* Apartado nosotros */
+.sobremi{
+    display: flex;
+    gap: 1.5rem;
+}
+.sobremi > *{
+    flex: 1;
+}
+.sobremi img{
+    width: 100%;
+}
+.sobremi_content, .sobremi_texto{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.sobremi_btn{
+    border: 1.5px solid #000;
+    padding: .45rem 1.2rem;
+    cursor: pointer;
+    width: max-content;
+}
+h2.titulo{
+    width: max-content;
+    border: 1px solid #000;
+    color: rgb(165, 165, 165);
+    padding: .35rem .75rem .35rem .2rem;
+    background-color: rgb(32, 32, 32);
+}
+/* Footer apartado nosostros */
+.footer_nosotros{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+.footer_nosotros i{
+    cursor: pointer;
+}
+.footer_sociales{
+    display: flex;
+    gap: .5rem;
+}
+/* Contacto */
+main.main-contact{
+    max-width: 40rem;
+    margin: 0 auto;
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+form{
+    display: flex;
+    gap: .5rem;
+    flex-direction: column;
+}
+form input, textarea{
+    width: 100%;
+    padding: .25rem;
+    font-family: "Comic Neue", cursive;
+}
+button[type="submit"]{
+    all: initial;
+    font-size: 1.2rem;
+    color: rgb(102, 101, 101);
+    cursor: pointer;
+    font-family: "Comic Neue", cursive;
+    width: max-content;
+    align-self: flex-end;
+}
+.chat{
+    position: fixed;
+    right: 2rem;
+    right: 1rem;
+    bottom: 1rem;
+    padding: .5rem;
+    width: max-content;
+    color: #dddddd;
+    border-radius: 50%;
+    background-color: #456B46;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
