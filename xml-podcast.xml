@@ -14,7 +14,8 @@
 			<num_visualizaciones>20</num_visualizaciones>
 			<num_comentarios>5</num_comentarios>
 			<num_megusta>13</num_megusta>
-			<imagen>https://github.com/espinozagabriel0/PROJ-PODCASTS-JS/blob/main/images/pexels-minan1398-1482803.jpg?raw=true</imagen>
+			<imagen>images/cocinar.jpg</imagen>
+			<!-- <imagen>https://github.com/espinozagabriel0/PROJ-PODCASTS-JS/blob/main/images/pexels-minan1398-1482803.jpg?raw=true</imagen> -->
 		</post>
 		<post titulo="Los destinos más requeridos del año" fecha="2023-10-20">
 			<autor>
@@ -28,7 +29,8 @@
 			<num_visualizaciones>25</num_visualizaciones>
 			<num_comentarios>16</num_comentarios>
 			<num_megusta>20</num_megusta>
-			<imagen>https://github.com/espinozagabriel0/PROJ-PODCASTS-JS/blob/main/images/pexels-pixabay-210243.jpg?raw=true</imagen>
+			<imagen>images/destinos.jpg</imagen>
+			<!-- <imagen>https://github.com/espinozagabriel0/PROJ-PODCASTS-JS/blob/main/images/pexels-pixabay-210243.jpg?raw=true</imagen> -->
 		</post>
 		<post titulo="Consejos para planear un viaje de ruta" fecha="2023-08-30">
 			<autor>
@@ -41,7 +43,8 @@
 			<num_visualizaciones>35</num_visualizaciones>
 			<num_comentarios>10</num_comentarios>
 			<num_megusta>15</num_megusta>
-			<imagen>https://github.com/espinozagabriel0/PROJ-PODCASTS-JS/blob/main/images/pexels-martine-mars-19400187.jpg?raw=true</imagen>
+			<imagen>images/viajes.jpg</imagen>
+			<!-- <imagen>https://github.com/espinozagabriel0/PROJ-PODCASTS-JS/blob/main/images/pexels-martine-mars-19400187.jpg?raw=true</imagen> -->
 		</post>
 		<post titulo="Los mejores festivales del mundo" fecha="2024-01-10">
 			<autor>
@@ -55,7 +58,8 @@
 			<num_visualizaciones>190</num_visualizaciones>
 			<num_comentarios>37</num_comentarios>
 			<num_megusta>90</num_megusta>
-			<imagen>https://github.com/espinozagabriel0/PROJ-PODCASTS-JS/blob/main/images/festivales.jpg?raw=true</imagen>
+			<imagen>images/festivales.jpg</imagen>
+			<!-- <imagen>https://github.com/espinozagabriel0/PROJ-PODCASTS-JS/blob/main/images/festivales.jpg?raw=true</imagen> -->
 		</post>
 		<post titulo="Mejores vehiculos si eres joven" fecha="2024-02-12">
 			<autor>
@@ -71,7 +75,8 @@
 			<num_visualizaciones>121</num_visualizaciones>
 			<num_comentarios>6</num_comentarios>
 			<num_megusta>10</num_megusta>
-			<imagen>https://github.com/espinozagabriel0/PROJ-PODCASTS-JS/blob/main/images/vehiculo.jpg?raw=true</imagen>
+			<imagen>images/vehiculo.jpg</imagen>
+			<!-- <imagen>https://github.com/espinozagabriel0/PROJ-PODCASTS-JS/blob/main/images/vehiculo.jpg?raw=true</imagen> -->
 		</post>
 	</posts>
 </podcast>
